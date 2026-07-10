@@ -27,3 +27,4 @@ E um ebook gratuito para o projeto da DIO e tipo uma amostra grátis.
 Crie uma apresentação para o ebook
 Crie uma apresentação mais curta
 Crie uma introdução curta 
+Link do ebook:https://github.com/elainelanna6-max/ebook---Introdu-o-a-Departamento-Pessoal/blob/main/ebook_Introdu%C3%A7%C3%A3o%20ao%20DP.pdf
